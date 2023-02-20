@@ -1,5 +1,4 @@
-"# Snake-Game-Python" 
-# Snake-Game-Python
+ # Snake-Game-Python
 
 Tools Used:
 
