@@ -1,14 +1,29 @@
  # Snake-Game-Python
 
-Tools Used:
+## Language Used:
 
-1-Python
+1- Python
 
-2-Python Turtle Library
 
-Description:
+## Libraries Used
+
+1- Turtle
+
+2- Random
+
+
+## IDE
+
+1- VSCODE
+
+
+
+## Description:
+
 A Basic snake game with 4 movements, wall collisions and score upon eating food.
 
+
+## Images
 
 ![image](https://user-images.githubusercontent.com/61060465/220208209-5da1d0bc-7bf0-4801-a6df-024fac91bcff.png)
 
