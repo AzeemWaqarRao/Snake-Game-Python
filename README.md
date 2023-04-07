@@ -22,6 +22,12 @@
 
 A Basic snake game with 4 movements, wall collisions and score upon eating food.
 
+## Run the game
+To run the game open command prompt in root directory of project and run the following command,
+```
+python main.py
+```
+
 
 ## Images
 
